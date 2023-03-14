@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    Hello!
+                    Hello
                 </div>
             </div>
         </div>
